@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloRetroFit</string>
+    <string name="textview_selection_placeholder">No item selected.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
