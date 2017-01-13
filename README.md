@@ -2,7 +2,7 @@
 
 ## Description
 
-Test application for tech that's new for me including
+Test application for tech that's new for me.
 
 ## Built With
 
